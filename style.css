@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-size: larger;
+  font-family: fantasy;
+  
+}
+.wrapper {
+  display: flex;
+  height: auto;
+  background-color: aquamarine;
+  flex-direction: column;
+  text-align: center;
+  line-height: 2em;
+  padding: 10px;
+}
+.content{
+  padding: 10px;
+}
+h1 {
+  margin: 0;
+  background-color: cadetblue;
+}
+.timer {
+  background-color: burlywood;
+  text-decoration: none;
+}
+.controller {
+  background-color: brown;
+}
+.lap {
+  text-align: left;
+  padding: 10px;
+}
